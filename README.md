@@ -47,6 +47,8 @@ The system responds depending on measured distance:
 ---
 
 ## 📷 Demo Video
+👉 [Click here to watch the demo](https://youtu.be/8T2ko5rrej0?si=bm6-uwy7ceylWj8C)
+---
 
 ## 📡 Wiring Diagram
 - Ultrasonic Sensor:
@@ -68,9 +70,9 @@ The system responds depending on measured distance:
 ## 💻 Code
 
 See the code in the file:
-for Arduino 'ultrasonic_led_buzzer.ino' 
+for Arduino  `ultrasonic_led_buzzer.ino`
 or 
-for ESP32 'ultrasonic.py'
+for ESP32  `ultrasonic.py`
 
 ---
 

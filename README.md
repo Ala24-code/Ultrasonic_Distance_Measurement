@@ -9,7 +9,8 @@ It can be used for:
 - Smart home proximity sensing
 - Safety distance alerts
 
---
+---
+
 ## 🛠️ Components
 
 - **Arduino Uno / ESP32**

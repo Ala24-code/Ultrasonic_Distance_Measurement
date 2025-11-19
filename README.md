@@ -52,18 +52,18 @@ The system responds depending on measured distance:
 
 ## 📡 Wiring Diagram 
 - Ultrasonic Sensor:
-    -VCC → 3.3V (or 5V for Arduino)
-    -GND → GND
-    -TRIG → GPIO 5 ( Pin 9 for Arduino)
-    -ECHO → GPIO 18 ( Pin 10 for Arduino)
+    - VCC → 3.3V (or 5V for Arduino)
+    - GND → GND
+    - TRIG → GPIO 5 ( Pin 9 for Arduino)
+    - ECHO → GPIO 18 ( Pin 10 for Arduino)
 
 - LEDs:
-    -Red LED → GPIO 14 (with 220Ω resistor) ( Pin 7 for Arduino)
-    -Yellow LED → GPIO 27 (with 220Ω resistor) ( Pin 6 for Arduino)
-    -Green LED → GPIO 26 (with 220Ω resistor) ( Pin 5 for Arduino)
+    - Red LED → GPIO 14 (with 220Ω resistor) ( Pin 7 for Arduino)
+    - Yellow LED → GPIO 27 (with 220Ω resistor) ( Pin 6 for Arduino)
+    - Green LED → GPIO 26 (with 220Ω resistor) ( Pin 5 for Arduino)
 
 - Buzzer:
-   -Buzzer → GPIO 12 ( Pin 8 for Arduino)
+   - Buzzer → GPIO 12 ( Pin 8 for Arduino)
 
 ---
 

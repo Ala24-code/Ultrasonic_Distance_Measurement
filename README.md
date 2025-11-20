@@ -48,6 +48,7 @@ The system responds depending on measured distance:
 
 ## 📷 Demo Video
 👉 [Click here to watch the demo](https://youtu.be/8T2ko5rrej0?si=bm6-uwy7ceylWj8C)
+
 ---
 
 ## 📡 Wiring Diagram 
